@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/bg_dialog"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nhập vào tên Đồ án"
+            android:textColor="@color/white"
+            android:background="@color/colorBlue"
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:gravity="center">
+        </TextView>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Tên Đồ án"
+                android:textColorHint="@color/colorText"
+                android:backgroundTint="@color/colorText"
+                android:textColor="@color/colorText"
+                android:inputType="textMultiLine"
+                android:textSize="16sp"
+                android:id="@+id/input_tenDA"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <TextView
+                    android:textSize="16sp"
+                    android:gravity="center"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"
+                    android:text="Huỷ"
+                    android:textColor="@color/colorText"
+                    android:id="@+id/txt_Huy"
+                    android:focusable="true"
+                    android:clickable="true"
+                    >
+
+                </TextView>
+                <TextView
+                    android:focusable="true"
+                    android:clickable="true"
+                    android:id="@+id/txt_tieptuc"
+                    android:textSize="16sp"
+                    android:gravity="center"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"
+                    android:text="Tiếp tục"
+                    android:textColor="@color/colorText">
+
+                </TextView>
+            </LinearLayout>
+            <View
+                android:layout_width="0.8dp"
+                android:layout_height="match_parent"
+                android:background="#575757"
+                android:layout_gravity="center">
+
+            </View>
+        </FrameLayout>
+
+    </LinearLayout>
+</RelativeLayout>

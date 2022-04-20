@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/menuSearch"
+            app:actionViewClass="androidx.appcompat.widget.SearchView"
+            android:icon="@drawable/ic_baseline_search_24"
+            android:title="Search"
+            app:showAsAction="always"/>
+        <item
+            android:id="@+id/menu_item"
+            android:icon="@drawable/ic_baseline_more_vert_24"
+            android:title="menu_item"
+            app:showAsAction="always">
+                <menu>
+                        <item
+                            android:id="@+id/menuSort"
+                            android:icon="@drawable/ic_baseline_filter_list_242"
+                            android:title="Lọc dữ liệu"
+                            app:showAsAction="always"/>
+                        <item
+                            android:id="@+id/menuInsert"
+                            android:icon="@drawable/ic_baseline_post_add_242"
+                            android:title="Thêm đồ án"
+                            app:showAsAction="always"
+                            />
+                        <item
+                            android:id="@+id/signout"
+                            android:icon="@drawable/ic_baseline_exit_to_app_24"
+                            android:title="Quay về đăng nhập"
+                            app:showAsAction="always"
+                            />
+                </menu>
+        </item>
+
+</menu>

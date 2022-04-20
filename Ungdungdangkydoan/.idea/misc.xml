@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/drawable-v24/cursor_color.xml" value="0.2703125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/drawable/bg_dialog.xml" value="0.2703125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/drawable/bottom_nav_icon_color_selector.xml" value="0.2703125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/drawable/button_signup.xml" value="0.2703125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/drawable/hinhtron.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/drawable/ic_add_24dp.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_ad_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_admind.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_change_pass.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_create_doan.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_giao_vien.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_them_thanh_vien.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_update_doan.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_update_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/custom_choose_specialized.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/custom_dialog_add_da.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/custom_dialog_chamdiem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/custom_dialog_filter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/custom_dialog_notify.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/fragment_page1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/fragment_page2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/fragment_page3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/fragment_sign_in.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/fragment_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/recycler_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/row_item_doan_ad.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/row_item_gv.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/row_item_sv.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/menu/option_menu_ad.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/menu/option_menu_infouser.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/menu/option_menu_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2537037037037037" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2537037037037037" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/drawable/ic_wave2.xml" value="0.3611111111111111" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/activity_ad_detail.xml" value="0.19579533941236069" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/activity_admind.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/activity_change_pass.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/activity_create_doan.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/activity_giao_vien.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/activity_login.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/activity_main.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/activity_splash_screen.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/activity_them_thanh_vien.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/activity_update_doan.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/activity_update_user.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/custom_choose_specialized.xml" value="0.19579533941236069" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/custom_dialog_add_da.xml" value="0.19579533941236069" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/custom_dialog_chamdiem.xml" value="0.19579533941236069" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/custom_dialog_filter.xml" value="0.19579533941236069" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/custom_dialog_notify.xml" value="0.19579533941236069" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/fragment_page1.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/fragment_page2.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/fragment_page3.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/fragment_sign_in.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/fragment_sign_up.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/list_item.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/recycler_menu.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/row_item_doan_ad.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/row_item_gv.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/layout/row_item_sv.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/menu/bottom_nav_menu.xml" value="0.40260416666666665" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/menu/option_menu_ad.xml" value="0.40260416666666665" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/menu/option_menu_infouser.xml" value="0.40260416666666665" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/DoAnAndroid_Nhom11_UngdungdangkykhoaluanHUFI/app/src/main/res/menu/option_menu_user.xml" value="0.40260416666666665" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/drawable/bottom_nav_icon_color_selector.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.32037037037037036" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/drawable/ic_wave1.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_ad_detail.xml" value="0.26132246376811596" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_admind.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_change_pass.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_create_doan.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_giao_vien.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_login.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_main.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_splash_screen.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_them_thanh_vien.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_update_doan.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/activity_update_user.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/custom_choose_specialized.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/custom_dialog_add_da.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/custom_dialog_chamdiem.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/custom_dialog_filter.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/custom_dialog_notify.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/fragment_page1.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/fragment_page2.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/fragment_page3.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/fragment_sign_in.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/fragment_sign_up.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/list_item.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/recycler_menu.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/row_item_doan_ad.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/row_item_gv.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/layout/row_item_sv.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/menu/bottom_nav_menu.xml" value="0.40260416666666665" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/menu/option_menu_ad.xml" value="0.40260416666666665" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/menu/option_menu_infouser.xml" value="0.40260416666666665" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/menu/option_menu_user.xml" value="0.40260416666666665" />
+        <entry key="..\:/Users/ihate/AndroidStudioProjects/Ungdungdangkydoan/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24583333333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

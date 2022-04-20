@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".ui.user.activity.MainActivity">
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    </FrameLayout>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="bottom"
+        app:itemIconSize="26dp"
+        app:itemIconTint="@drawable/bottom_nav_icon_color_selector"
+        app:menu="@menu/bottom_nav_menu"
+        app:labelVisibilityMode="labeled"
+        android:background = "@color/colorBlue"
+        app:itemTextColor="@drawable/bottom_nav_icon_color_selector"
+
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/lnLoading"
+        android:orientation="vertical">
+        <ProgressBar
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:id="@+id/progressBar_cyclic"
+            android:visibility="visible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="40dp"
+            android:minWidth="40dp" />
+    </LinearLayout>
+</FrameLayout>
+<!--    app:labelVisibilityMode="unlabeled"-->
+<!--    app:itemTextColor="@color/bnv_tab_item_foreground"-->
+<!--    android:background="@color/transparent"-->
+<!--    android:backgroundTint="@color/transparent"-->

@@ -1,0 +1,104 @@
+[
+  {
+    "MaGV": "001" ,
+    "TenGV":"Dương Thành Phết ",
+    "TenChuyeNganh": "Công nghệ phần mềm",
+    "Email": "phetcm@gmail.com"
+  },
+  {
+    "MaGV": "002" ,
+    "TenGV":"Nguyễn Kim Hưng ",
+    "TenChuyeNganh": "Công nghệ phần mềm",
+    "Email": "nguyenkimhung@gmail.com"
+  },
+  {
+    "MaGV": "003" ,
+    "TenGV":"Nguyễn Đông Phương  ",
+    "TenChuyeNganh": "Công nghệ phần mềm",
+    "Email": "nguyendongphuong@gmail.com"
+  },
+  {
+    "MaGV": "004" ,
+    "TenGV":"Trịnh Công Nhựt  ",
+    "TenChuyeNganh": "Công nghệ phần mềm",
+    "Email": "man@gmail.com"
+  },
+  {
+    "MaGV": "005" ,
+    "TenGV":"Hoàng Công Trình ",
+    "TenChuyeNganh": "Hệ thống thông tin",
+    "Email": "hctrinh@gmail.com"
+  },
+  {
+    "MaGV": "006" ,
+    "TenGV":"Nguyễn Chí Toàn ",
+    "TenChuyeNganh": "Hệ thống thông tin",
+    "Email": "ct123@gmail.com"
+  },
+  {
+    "MaGV": "007" ,
+    "TenGV":"Phan Đức Trí  ",
+    "TenChuyeNganh": "Hệ thống thông tin",
+    "Email": "dt123@gmail.com"
+  },
+  {
+    "MaGV": "008" ,
+    "TenGV":"Nguyễn Cao Trí  ",
+    "TenChuyeNganh": "Hệ thống thông tin",
+    "Email": "ct123@gmail.com"
+  },
+  {
+    "MaGV": "009" ,
+    "TenGV":"Phan Đình Duy Thông ",
+    "TenChuyeNganh": "An toàn thông tin",
+    "Email": "pddt@gmail.com"
+  },
+  {
+    "MaGV": "010" ,
+    "TenGV":"Nguyễn Tài Tiệp ",
+    "TenChuyeNganh": "An toàn thông tin",
+    "Email": "ntt123@gmail.com"
+  },
+  {
+    "MaGV": "011" ,
+    "TenGV":"Nguyễn Bạch Thanh Tùng  ",
+    "TenChuyeNganh": "An toàn thông tin",
+    "Email": "nbtt@gmail.com"
+  },
+  {
+    "MaGV": "011" ,
+    "TenGV":"Dương Minh Chiến  ",
+    "TenChuyeNganh": "An toàn thông tin",
+    "Email": "dmc@gmail.com"
+  },
+  {
+    "MaGV": "012" ,
+    "TenGV":"Nguyễn Văn C6  ",
+    "TenChuyeNganh": "Mạng máy tính ",
+    "Email": "123@gmail.com"
+  },
+  {
+    "MaGV": "013" ,
+    "TenGV":"Nguyễn Văn A4 ",
+    "TenChuyeNganh": "Mạng máy tính ",
+    "Email": "123@gmail.com"
+  },
+  {
+    "MaGV": "014" ,
+    "TenGV":"Phạm Thị B4 ",
+    "TenChuyeNganh": "Mạng máy tính ",
+    "Email": "123@gmail.com"
+  },
+  {
+    "MaGV": "015" ,
+    "TenGV":"Nguyễn Văn B4  ",
+    "TenChuyeNganh": "Mạng máy tính ",
+    "Email": "123@gmail.com"
+  },
+  {
+    "MaGV": "016" ,
+    "TenGV":"Nguyễn Văn C4  ",
+    "TenChuyeNganh": "Mạng máy tính ",
+    "Email": "123@gmail.com"
+  }
+]

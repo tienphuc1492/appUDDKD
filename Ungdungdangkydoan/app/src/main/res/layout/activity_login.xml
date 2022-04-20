@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.user.activity.MainActivity"
+    android:background="@color/white">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="20dp"
+            android:paddingRight="-10dp"
+            android:paddingTop="-10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_wave2"></ImageView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/ic_wave1"
+            android:scaleType="fitXY"></ImageView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:src="@drawable/ic_wave3"
+            android:layout_gravity="bottom"
+            android:scaleType="fitXY"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="-20dp"
+            ></ImageView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:src="@drawable/ic_wave4"
+            android:paddingLeft="-20dp"
+            android:layout_gravity="bottom"
+            android:scaleType="fitXY"></ImageView>
+
+        <LinearLayout
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="150dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|right"
+            >
+            <TextView
+                android:id="@+id/txt_DangKi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#1D59B6"
+                android:text="Đăng kí"
+                android:layout_gravity="center"
+                android:layout_marginRight="10dp"
+                android:textSize="14sp"
+                android:textStyle="bold">
+            </TextView>
+            <View
+                android:layout_gravity="center"
+                android:layout_width="1dp"
+                android:layout_height="10dp"
+                android:background="@color/colorText"></View>
+            <TextView
+                android:id="@+id/txt_DangNhap"
+                android:textSize="14sp"
+                android:layout_marginLeft="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#1D59B6"
+                android:text="Đăng nhập">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <FrameLayout
+            android:id="@+id/fragment_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="180dp"
+            android:layout_marginRight="30dp"
+            android:orientation="vertical"></FrameLayout>
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="630dp"
+            android:layout_marginLeft="240dp"
+            android:padding="0dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_illustration_login">
+        </ImageView>
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="85dp"
+            android:layout_marginLeft="48dp"
+            android:layout_marginTop="90dp"
+            android:src="@drawable/hutech"
+            android:scaleType="fitXY"></ImageView>
+    </FrameLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

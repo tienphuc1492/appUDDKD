@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512303488034",
+    "project_id": "doanapplication",
+    "storage_bucket": "doanapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512303488034:android:c79cb89952f79c75fabe7b",
+        "android_client_info": {
+          "package_name": "com.atula.doanapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512303488034-r6pr5s1t82gquch6ffbr70hgcsatbe9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSJoBEb2oC2hMSRQLRKRx1rJ0ltgVPmvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512303488034-r6pr5s1t82gquch6ffbr70hgcsatbe9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

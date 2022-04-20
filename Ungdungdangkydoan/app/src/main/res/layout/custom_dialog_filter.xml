@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/bg_dialog"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lọc kết quả "
+            android:textColor="@color/white"
+            android:background="@color/colorBlue"
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:gravity="center">
+        </TextView>
+
+        <TextView
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Trạng thái : ">
+        </TextView>
+
+        <RadioGroup
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/group1"
+            android:weightSum="3"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/rd1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:minHeight="48dp"
+                android:text="Đã đăng kí"
+                android:textColor="@color/colorText"></RadioButton>
+            <RadioButton
+                android:id="@+id/rd2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Chưa đăng kí"
+                android:textColor="@color/colorText"></RadioButton>
+            <RadioButton
+                android:id="@+id/rd3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Tất cả"
+                android:textColor="@color/colorText"
+                android:checked="true"></RadioButton>
+        </RadioGroup>
+        <TextView
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="15dp"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Chuyên ngành : ">
+        </TextView>
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:weightSum="1"
+            android:id="@+id/group2"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp">
+            <RadioButton
+                android:layout_marginBottom="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Công nghệ phần mềm "
+                android:id="@+id/rd4"
+                android:layout_gravity="left"
+                android:textSize="16dp"
+                android:textColor="@color/colorText"/>
+
+            <RadioButton
+                android:layout_marginBottom="5dp"
+                android:id="@+id/rd5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hệ thống thông tin "
+                android:layout_gravity="left"
+                android:textSize="16dp"
+                android:textColor="@color/colorText"/>
+            <RadioButton
+                android:layout_marginBottom="5dp"
+                android:id="@+id/rd6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="An toàn thông tin "
+                android:layout_gravity="left"
+                android:textSize="16dp"
+                android:textColor="@color/colorText" />
+            <RadioButton
+                android:layout_marginBottom="5dp"
+                android:id="@+id/rd7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mạng máy tính  "
+                android:layout_gravity="left"
+                android:textSize="16dp"
+                android:textColor="@color/colorText" />
+            <RadioButton
+                android:layout_marginBottom="5dp"
+                android:id="@+id/rd8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tất cả"
+                android:layout_gravity="left"
+                android:textSize="16dp"
+                android:checked="true"
+                android:textColor="@color/colorText" />
+        </RadioGroup>
+
+<!--        <View-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="0.8dp"-->
+<!--            android:layout_marginTop="6dp"-->
+<!--            android:background="#575757">-->
+
+<!--        </View>-->
+        <FrameLayout
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+            <Button
+                android:layout_gravity="center"
+                android:id="@+id/btn"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:textColor="#ffffff"
+                android:background="@drawable/button_signup"
+                android:text="Đồng ý "
+                android:textAllCaps="false"/>
+        </FrameLayout>
+
+    </LinearLayout>
+</RelativeLayout>
